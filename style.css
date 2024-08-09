@@ -24,6 +24,29 @@ nav ul {
     justify-content: center;
 }
 
+
+
+
+
+ul li a {
+    display: inline-block;
+    background-color: #6ef0ba; 
+    color: rgb(236, 1, 225); 
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 99px; 
+    transition: background-color 0.3s; 
+}
+
+ul li a:hover {
+    background-color: #e775e7; 
+}
+
+
+
+
+
 nav ul li {
     margin: 0 1em;
 }
