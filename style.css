@@ -40,12 +40,17 @@ main {
 h1 {
     color: #000000;
 }
-
+h3 {
+    text-align: center;
+}
 .centralizado {
     text-align: center;
 }
 
-
+.container {
+    width: 1270px;
+    text-align: center;
+}
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
