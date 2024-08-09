@@ -48,7 +48,7 @@ h3 {
 }
 
 .container {
-    width: 1270px;
+    width: 1348px;
     text-align: center;
     justify-content: center;
 }
@@ -72,18 +72,12 @@ h3 {
 .grid-container img {
     max-width: 77%;
     height: auto;
-    justify-items
 }
-
-
 
 
 .grid-container img:hover {
     transform: scale(1.1); 
 }
-
-
-
 
 
 footer {
